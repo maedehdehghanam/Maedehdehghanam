@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=maedehdehghanam&theme=onedark&margin-w=12&margin-h=10&column=7&no-frame=true" alt="maedehdehghanam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maedehdehghanam" alt="maedehdehghanam" /></a> </p>
-
 - 📫 My Email: **maedehdehghanam@gmail.com**
 
 - ★ Know about my experiences [maedehdehghan.ir/cv](maedehdehghan.ir/cv)
