@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Maedeh Dehghan!</h1>
-<h3 align="center">A passionate computer engineering student in Shahid Beheshti University! 💻 U+2764 </h3>
+<h3 align="center">A passionate computer engineering student in Shahid Beheshti University! 💻 :⊛_pink_heart: </h3>
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=maedehdehghanam&theme=onedark&margin-w=12&margin-h=10&column=7&no-frame=true" alt="maedehdehghanam" /> </p>
 
