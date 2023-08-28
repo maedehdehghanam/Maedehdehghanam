@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Maedeh Dehghan!</h1>
 <h3 align="center">A passionate computer engineering student in Shahid Beheshti University! 💻♡</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maedehdehghanam&label=Profile%20views&color=0e75b6&style=flat" alt="maedehdehghanam" /> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=maedehdehghanam&theme=onedark&margin-w=12&margin-h=10&column=7&no-frame=true" alt="maedehdehghanam" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maedehdehghanam" alt="maedehdehghanam" /></a> </p>
 
