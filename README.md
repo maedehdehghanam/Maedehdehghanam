@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Maedeh Dehghan!</h1>
-<h3 align="center">A passionate computer engineering student in Shahid Beheshti University! 💻❤️ </h3>
+<h3 align="center">A passionate computer engineering student at Shahid Beheshti University! 💻❤️ </h3>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=maedehdehghanam&theme=onedark&margin-w=12&margin-h=10&column=7&no-frame=true" alt="maedehdehghanam" /> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=maedehdehghanam&theme=onedark&margin-w=2&margin-h=10&column=7&no-frame=true&title=MultiLanguage,Followers,Stars,Commits,Experience,Followers,PullRequest" alt="Trophies" /> </p>
 
 - 📫 My Email: **maedehdehghanam@gmail.com**
 
-- ★ Know about my experiences [maedehdehghan.ir/cv](maedehdehghan.ir/cv)
+- ★ Know about my experiences [maedehdehghan.ir/cv](https://maedehdehghan.ir/cv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
