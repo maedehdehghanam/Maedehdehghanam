@@ -5,7 +5,7 @@
 
 - 📫 My Email: **maedehdehghanam@gmail.com**
 
-- ★ Know about my experiences [maedehdehghan.ir/cv](https://maedehdehghan.ir/cv)
+- ★ Know about my experiences [maedehdehghan.ir/cv](http://maedehdehghan.ir/cv.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
