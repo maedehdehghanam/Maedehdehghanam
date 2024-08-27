@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Maedeh Dehghan!</h1>
-<h3 align="center">A passionate computer engineering student!💻❤️ </h3>
+<h3 align="center">A passionate computer engineering student!💻 </h3>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=maedehdehghanam&theme=onedark&margin-w=2&margin-h=10&column=7&no-frame=true&title=MultiLanguage,Followers,Stars,Commits,Experience,Followers,PullRequest" alt="Trophies" /> </p>
 
 - 📫 My Email: **maedehdehghanam@gmail.com**
 
