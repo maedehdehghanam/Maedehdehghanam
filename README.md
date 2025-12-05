@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Maedeh Dehghan!</h1>
+<h1 align="center">Hi, I'm Maedeh (Mariana) Dehghan!</h1>
 <h3 align="center">A passionate computer engineering student!💻 </h3>
 
 
